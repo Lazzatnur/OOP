@@ -1,0 +1,9 @@
+fishname         cost
+Neon Tetra       100
+Guppies          200
+Mollies          500
+Betta Fish       300
+Goldfish         1000
+Angelfish        200
+Dwarf Barbs      900
+Rainbowfish      800
